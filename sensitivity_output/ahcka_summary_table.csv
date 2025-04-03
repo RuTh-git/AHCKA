@@ -1,0 +1,7 @@
+Dataset,Best k,Accuracy,F1-score,NMI,Runtime (s),Memory (MB)
+coauthorship_cora,10,0.655,0.61,0.468,1.19,380.51
+coauthorship_dblp,100,0.811,0.795,0.643,683.22,3976.26
+cocitation_citeseer,20,0.676,0.632,0.407,1.64,557.49
+cocitation_cora,20,0.619,0.532,0.423,1.76,415.66
+npz_20news,20,0.712,0.659,0.409,47.88,2613.49
+npz_query,10,0.699,0.642,0.64,0.47,182.7
